@@ -5,4 +5,4 @@ Group Members:
 2. Logan Peterson
 
 Program Description:
-We take the users input for name and age and print out an ID for them.
+1. We take the users input for name and age and print out an ID for them.
